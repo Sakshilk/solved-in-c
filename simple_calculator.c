@@ -2,7 +2,7 @@
 * num1 = stores the first integer operand
 * num2 = stores the second integer operand 
 * result = stores the result of the selected operation
-* hoice = stores the user's choice of operation 
+* choice = stores the user's choice of operation 
  */
 #include <stdio.h>
 int main(){
